@@ -1,0 +1,23 @@
+{
+  "name": "studynotes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangyingyingwyy/studynotes.git"
+  },
+  "keywords": [],
+  "author": "wangyingyingwyy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangyingyingwyy/studynotes/issues"
+  },
+  "homepage": "https://github.com/wangyingyingwyy/studynotes#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}

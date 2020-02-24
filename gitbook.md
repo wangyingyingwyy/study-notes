@@ -14,6 +14,7 @@
 
 1. 创建自动化构建配置文件.travis.yml
     > .tavis.yml文件
+    
     ```
     language: node_js
     node_js:
